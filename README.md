@@ -7,3 +7,8 @@ The list includes:
 - Open data analysis and visualization tools
 - Relevant scientific articles
 - Relevant tutorials
+
+Open datasets
+
+- NASA data catalog (https://data.nasa.gov/)
+- NASA data information and tools (https://www.nasa.gov/open/data.html)
