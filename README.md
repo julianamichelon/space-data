@@ -1,5 +1,5 @@
 # space-data
-This repository contains resources for space data analysis and visualization.
+This repository contains open resources for space data science.
 
 The list includes:
 
