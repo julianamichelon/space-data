@@ -15,4 +15,6 @@ Open datasets
 
 Open data analysis and visualization tools
 
-- GraphSpace (https://graphspace.org/index
+- Gephi (https://gephi.org/)
+- Cytoscape (https://cytoscape.org/index.html)
+- GraphSpace (https://graphspace.org/index)
