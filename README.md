@@ -12,6 +12,7 @@ Open datasets
 
 - NASA data catalog (https://data.nasa.gov/)
 - NASA data information and tools (https://www.nasa.gov/open/data.html)
+- SDO Solar Dynamics Observatory Data (https://sdo.gsfc.nasa.gov/data/dataaccess.php)
 
 Open data analysis and visualization tools
 
