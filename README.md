@@ -23,4 +23,4 @@ Open data analysis and visualization tools
 Relevant Tutorials
 
 - Space Science with Python Tutorial (https://medium.com/space-science-in-a-nutshell/space-science-with-python-a-data-science-tutorial-series-57ad95660056)
-- Space Science with Python Git Repository (https://github.com/ThomasAlbin/SpaceScienceTutorial)
+- Space Science with Python Repository (https://github.com/ThomasAlbin/SpaceScienceTutorial)
